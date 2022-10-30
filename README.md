@@ -4,10 +4,10 @@
 
 💞 Just Now Cp ID Login
 
-💞 git clone https://github.com/AHAD-VAU-KING/MR-AHAD
+💞 git clone https://github.com/omarsalemalomryq/MR-OMAR.py
 
 💞 ls
 
-💞 cd MR-AHAD
+💞 cd MR-OMAR.py
 
-💞 python MR-AHAD.py
+💞 python MR-OMAR.py
