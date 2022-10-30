@@ -1,6 +1,6 @@
 #----------------------------------------
-# Compile : MOHAMMAD AHAD
-# Facebook : Mohammad Ahad
+# Compile : OMAR+Altarhony
+# Facebook : Omar Muhammed Jrhad Masrawy
 # Github  : https://github.com/AHAD-VAU-KING
 #----------------------------------------
 import marshal
